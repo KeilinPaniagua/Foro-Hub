@@ -33,6 +33,6 @@ Posteriormente, se debe permitir a los usuarios iniciar sesión y realizar opera
 
 ## Video del funcionamiento de la aplicación
 
-[![Mira el vídeo]()](https://youtu.be/aqYCaEz9UT8)
+[![Mira el vídeo](https://github.com/KeilinPaniagua/Foro-Hub/blob/main/Proyecto%20Foro%20Hub.png)](https://youtu.be/aqYCaEz9UT8)
 
-![swagger]()
+![swagger](https://github.com/KeilinPaniagua/Foro-Hub/blob/main/Proyecto%20Foro%20Hub%202png.png)
