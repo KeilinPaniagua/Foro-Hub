@@ -35,4 +35,6 @@ Posteriormente, se debe permitir a los usuarios iniciar sesión y realizar opera
 
 [![Mira el vídeo](https://github.com/KeilinPaniagua/Foro-Hub/blob/main/Proyecto%20Foro%20Hub.png)](https://youtu.be/aqYCaEz9UT8)
 
+## Imagen sobre la documentación de la API se genera automáticamente con Swagger-ui
+
 ![swagger](https://github.com/KeilinPaniagua/Foro-Hub/blob/main/Proyecto%20Foro%20Hub%202png.png)
